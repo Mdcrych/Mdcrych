@@ -29,17 +29,6 @@ I build mobile and backend applications with a focus on practical architecture, 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdcrych&theme=transparent" alt="Profile details" />
 </p>
 
-## Featured projects
-
-### inventory_
-
-Backend project in Kotlin.  
-Includes remote repository collaboration, branch-based development, testing setup, and PostgreSQL integration.
-
-### self_glukoza_monitoring
-
-Flutter application for glucose self-monitoring.  
-Includes history tracking, reminders, widget synchronization, encrypted local storage, and insulin-related data entry.
 
 ## Interests
 
@@ -48,7 +37,9 @@ Includes history tracking, reminders, widget synchronization, encrypted local st
 - Financial and data analytics
 - Healthcare-related applications
 - System and architecture design
+- 
 
 ## Contacts
 
 - GitHub: [Mdcrych](https://github.com/Mdcrych)
+- Telegram: @Mdcrch
