@@ -42,4 +42,4 @@ I build mobile and backend applications with a focus on practical architecture, 
 ## Contacts
 
 - GitHub: [Mdcrych](https://github.com/Mdcrych)
-- Telegram: @Mdcrch
+- Telegram: [@Mdcrch](https://t.me/Mdcrch)
