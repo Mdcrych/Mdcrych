@@ -37,7 +37,6 @@ I build mobile and backend applications with a focus on practical architecture, 
 - Financial and data analytics
 - Healthcare-related applications
 - System and architecture design
-- 
 
 ## Contacts
 
