@@ -37,6 +37,10 @@ I build mobile and backend applications with a focus on practical architecture, 
 - Healthcare-related applications
 - System and architecture design
 
+## Certifications
+
+- 🇬🇧 **English — C1 Advanced** (EF SET, 65/100) — Reading: C2 · Listening: B2 · [Certificate](https://cert.efset.org/ru/A3BCnL) · *July 2026*
+
 ## Contacts
 
 - GitHub: [Mdcrych](https://github.com/Mdcrych)
