@@ -7,7 +7,6 @@ I build mobile and backend applications with a focus on practical architecture, 
 
 ## Current focus
 
-- Kotlin backend development in the `inventory_` repository
 - Flutter mobile development in `self_glukoza_monitoring`
 - PostgreSQL and Docker-based local environments
 - Improving testing, architecture, and code quality
